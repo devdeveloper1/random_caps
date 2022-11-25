@@ -1,7 +1,7 @@
 import random
 
 
-def random_caps(string: str | list, chance: int) -> str | list:
+def random_cap(string: str | list, chance: int) -> str | list:
     """
     Randomly applies uppercase to letters in a string.
 

@@ -10,4 +10,4 @@
         Each letter would have a 1 in 100 chance of turning uppercase
 """
 
-import random_caps
+import random_cap
