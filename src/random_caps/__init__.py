@@ -6,8 +6,6 @@
     being the chance of applying uppercase to a letter.
 
     Example:
-        random_caps("random", 100)
+        random_cap("random", 100)
         Each letter would have a 1 in 100 chance of turning uppercase
 """
-
-from random_cap import random_cap

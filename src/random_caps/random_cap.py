@@ -13,7 +13,7 @@ def random_cap(string: str | list, chance: int) -> str | list:
             The string or a list of strings with random uppercase and lowercase letters.
 
         Example:
-            random_caps("random", 100) > each letter has a 1 in a 100 chance of turning uppercase
+            random_cap("random", 100) > each letter has a 1 in a 100 chance of turning uppercase
 
         Raises:
             TypeError: either a element in a list is not a string or
