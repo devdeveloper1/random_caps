@@ -15,7 +15,7 @@ $ python3 -m pip install random_caps
 ## example
 
 ```python
->>> from random_caps import *
+>>> from random_caps.random_cap import *
 >>> print(random_cap("random", 2))
 "RanDOm"
 ```
